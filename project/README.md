@@ -1,6 +1,6 @@
 ## Como obter o dataset
 
-Para rodar este notebook, baixe o dataset 'E-Commerce Data' no Kaggle:  
+Para rodar o notebook, baixe o dataset 'E-Commerce Data' no Kaggle:  
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 Depois, coloque o arquivo CSV na pasta `data/` (não incluída no repositório).
